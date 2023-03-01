@@ -1,0 +1,8 @@
+easy&nice-> felul in care este formatat codul
+         ->sa se inteleaga usor codul
+         -> sa nu fie tot pe o linie
+         -> usor de inteles, modificat, citit
+DRY-> don't repet yoursefl(copiere cod)
+KISS->tine simplu si stupid
+YAGNI
+SOLID
