@@ -6,8 +6,27 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
-public interface AplicantReader {
+public abstract class AplicantReader {
+    public abstract List<Aplicant>  readAplicant(String name) throws FileNotFoundException;
 
-    List<Aplicant> readAplicant(String name) throws FileNotFoundException;
+    public void readerAplicant(Scanner scanner, Aplicant aplicant){
+        String nume = scanner.next();
+        String prenume = scanner.next();
+        int varsta = scanner.nextInt();
+        int punctaj = scanner.nextInt();
+        int nr = scanner.nextInt();
+        String[] vect = new String[nr];
+        for (int i = 0; i < nr; i++){
+            vect[i] = scanner.next();
+        }
+
+        aplicant.setNume(nume);
+        aplicant.setPrenume(prenume);
+        aplicant.setPunctaj(punctaj);
+        aplicant.setVarsta(varsta);
+        aplicant.setNr_proiecte(nr);
+        aplicant.setDenumireProiect(vect);
+    }
 }

@@ -6,3 +6,6 @@ DRY-> don't repet yoursefl(copiere cod)
 KISS->tine simplu si stupid
 YAGNI
 SOLID
+
+
+TEMA!   Facem noi redenumiri si toate cele ce nu folosim si asa si ii dam push.
