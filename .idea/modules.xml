@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar4/seminar4.iml" filepath="$PROJECT_DIR$/seminar4/seminar4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar_5/seminar_5.iml" filepath="$PROJECT_DIR$/seminar_5/seminar_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar_calitate_si_testare_software.iml" filepath="$PROJECT_DIR$/seminar_calitate_si_testare_software.iml" />
     </modules>
   </component>
