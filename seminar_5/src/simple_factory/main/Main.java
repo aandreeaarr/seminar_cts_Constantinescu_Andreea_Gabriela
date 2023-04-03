@@ -1,8 +1,8 @@
 package simple_factory.main;
 
-import simple_factory.PersonalSpital;
-import simple_factory.SimpleFactory;
-import simple_factory.TipPersonal;
+import simple_factory.clase.PersonalSpital;
+import simple_factory.clase.SimpleFactory;
+import simple_factory.clase.TipPersonal;
 
 import java.util.ArrayList;
 import java.util.List;

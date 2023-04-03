@@ -1,8 +1,8 @@
 package factory_method.main;
 
-import factory_method.FactoryBrancardier;
-import factory_method.FactoryMedic;
-import factory_method.PersonalSpital;
+import factory_method.clase.FactoryBrancardier;
+import factory_method.clase.FactoryMedic;
+import factory_method.clase.PersonalSpital;
 
 import java.util.ArrayList;
 import java.util.List;
