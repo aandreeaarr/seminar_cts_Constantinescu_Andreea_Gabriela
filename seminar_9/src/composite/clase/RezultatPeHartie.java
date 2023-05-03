@@ -1,4 +1,4 @@
-package decorator.clase;
+package composite.clase;
 
 public class RezultatPeHartie implements FurnizareRezultat {
     @Override

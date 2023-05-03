@@ -1,4 +1,4 @@
-package decorator.clase;
+package composite.clase;
 
 public abstract class DecoratorAbstract implements FurnizareRezultat {
     private FurnizareRezultat atr;

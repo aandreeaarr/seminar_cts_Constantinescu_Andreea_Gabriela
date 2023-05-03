@@ -1,4 +1,4 @@
-package decorator.clase;
+package composite.clase;
 
 public class RezultatOnline extends DecoratorAbstract {
     public RezultatOnline(FurnizareRezultat atr) {

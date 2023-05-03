@@ -1,9 +1,9 @@
-package decorator.main;
+package composite.main;
 
-import decorator.clase.DecoratorAbstract;
-import decorator.clase.FurnizareRezultat;
-import decorator.clase.RezultatOnline;
-import decorator.clase.RezultatPeHartie;
+import composite.clase.DecoratorAbstract;
+import composite.clase.FurnizareRezultat;
+import composite.clase.RezultatOnline;
+import composite.clase.RezultatPeHartie;
 
 public class Main {
     public static void main(String[] args) {
