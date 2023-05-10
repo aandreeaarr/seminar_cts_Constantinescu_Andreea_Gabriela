@@ -6,12 +6,14 @@
       <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar4/seminar4.iml" filepath="$PROJECT_DIR$/seminar4/seminar4.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar_10/seminar_10.iml" filepath="$PROJECT_DIR$/seminar_10/seminar_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar_11/seminar_11.iml" filepath="$PROJECT_DIR$/seminar_11/seminar_11.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar_5/seminar_5.iml" filepath="$PROJECT_DIR$/seminar_5/seminar_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar_6/seminar_6.iml" filepath="$PROJECT_DIR$/seminar_6/seminar_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar_8/seminar_8.iml" filepath="$PROJECT_DIR$/seminar_8/seminar_8.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar_9/seminar_9.iml" filepath="$PROJECT_DIR$/seminar_9/seminar_9.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar_calitate_si_testare_software.iml" filepath="$PROJECT_DIR$/seminar_calitate_si_testare_software.iml" />
       <module fileurl="file://$PROJECT_DIR$/sigleton/sigleton.iml" filepath="$PROJECT_DIR$/sigleton/sigleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spital/spital.iml" filepath="$PROJECT_DIR$/spital/spital.iml" />
     </modules>
   </component>
 </project>
