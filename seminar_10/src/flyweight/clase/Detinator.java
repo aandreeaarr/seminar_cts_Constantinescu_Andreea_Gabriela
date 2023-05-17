@@ -12,7 +12,8 @@ public class Detinator implements IClientBanca{
     }
 
     @Override
-    public void descriere() {
-        System.out.println("detinator: " + nume + " cu numarul de telefon: " + nrTelefon);
+    public void descriere(Cont cont) {
+        System.out.println("detinator: " + nume
+                + " cu numarul de telefon: " + nrTelefon +cont.toString());
     }
 }

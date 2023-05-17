@@ -1,4 +1,4 @@
-package flyweight.clase;
+package clase;
 
 public interface IClientBanca {
     void descriere(Cont cont);
